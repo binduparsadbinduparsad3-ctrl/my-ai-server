@@ -1,0 +1,10 @@
+{
+  "name": "my-ai",
+  "version": "1.0.0",
+  "description": "My AI web search app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
