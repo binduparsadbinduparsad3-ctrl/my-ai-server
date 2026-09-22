@@ -1,7 +1,7 @@
 {
-  "name": "my-ai",
+  "name": "my-ai-server",
   "version": "1.0.0",
-  "description": "My AI web search app",
+  "description": "My AI web search server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
